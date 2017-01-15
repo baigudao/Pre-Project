@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">活动</string>
+    <string name="prompt" >请选择你所在的城市</string>
+    <string name="cuncu">是否永久存储</string>
+    <string name="xiyouji">西游记中的人物，你最喜欢谁?</string>
+
+    <string name="newsContent">这是新闻的内容，很长很长很长这是新闻的内容，很长很长很长这是新闻的内容，
+            这是新闻的内容，很长很长很长这是新闻的内容，很长很长很长很长很长很长这是新闻的内容，很长很长很长</string>
+
+    <string-array name="cites">
+        <item>北京</item>
+        <item>上海</item>
+        <item>广州</item>
+        <item>深圳</item>
+    </string-array>
+</resources>

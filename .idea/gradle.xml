@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:\android studio 2.1.0.0\gradle\gradle-2.10" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/activity_01" />
+            <option value="$PROJECT_DIR$/activity_02" />
+            <option value="$PROJECT_DIR$/activity_03" />
+            <option value="$PROJECT_DIR$/activity_04" />
+            <option value="$PROJECT_DIR$/activity_05" />
+            <option value="$PROJECT_DIR$/activity_lifecycle" />
+            <option value="$PROJECT_DIR$/activity_singleInstance" />
+            <option value="$PROJECT_DIR$/activity_singleTask" />
+            <option value="$PROJECT_DIR$/activity_singleTop" />
+            <option value="$PROJECT_DIR$/activity_standard" />
+            <option value="$PROJECT_DIR$/android-async-http_test" />
+            <option value="$PROJECT_DIR$/asynctask_01" />
+            <option value="$PROJECT_DIR$/asynctask_02" />
+            <option value="$PROJECT_DIR$/asynctask_03" />
+            <option value="$PROJECT_DIR$/asynctask_04" />
+            <option value="$PROJECT_DIR$/broadcast_01" />
+            <option value="$PROJECT_DIR$/contacts_provider" />
+            <option value="$PROJECT_DIR$/data_storage01" />
+            <option value="$PROJECT_DIR$/data_storage02" />
+            <option value="$PROJECT_DIR$/data_storage03" />
+            <option value="$PROJECT_DIR$/data_storage04" />
+            <option value="$PROJECT_DIR$/data_storage05" />
+            <option value="$PROJECT_DIR$/data_storage06" />
+            <option value="$PROJECT_DIR$/drawerlayout" />
+            <option value="$PROJECT_DIR$/fragment_01" />
+            <option value="$PROJECT_DIR$/fragment_02" />
+            <option value="$PROJECT_DIR$/fragment_lifecycle" />
+            <option value="$PROJECT_DIR$/media_provider" />
+            <option value="$PROJECT_DIR$/multimedia_01" />
+            <option value="$PROJECT_DIR$/net_01" />
+            <option value="$PROJECT_DIR$/net_02" />
+            <option value="$PROJECT_DIR$/net_03" />
+            <option value="$PROJECT_DIR$/net_04" />
+            <option value="$PROJECT_DIR$/net_05" />
+            <option value="$PROJECT_DIR$/net_06" />
+            <option value="$PROJECT_DIR$/service_01" />
+            <option value="$PROJECT_DIR$/service_02" />
+            <option value="$PROJECT_DIR$/service_lifecycle" />
+            <option value="$PROJECT_DIR$/ui_01" />
+            <option value="$PROJECT_DIR$/ui_02" />
+            <option value="$PROJECT_DIR$/webservice" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/activity_01" />
+            <option value="$PROJECT_DIR$/activity_02" />
+            <option value="$PROJECT_DIR$/activity_03" />
+            <option value="$PROJECT_DIR$/activity_04" />
+            <option value="$PROJECT_DIR$/activity_05" />
+            <option value="$PROJECT_DIR$/activity_lifecycle" />
+            <option value="$PROJECT_DIR$/activity_singleInstance" />
+            <option value="$PROJECT_DIR$/activity_singleTask" />
+            <option value="$PROJECT_DIR$/activity_singleTop" />
+            <option value="$PROJECT_DIR$/activity_standard" />
+            <option value="$PROJECT_DIR$/android-async-http_test" />
+            <option value="$PROJECT_DIR$/asynctask_01" />
+            <option value="$PROJECT_DIR$/asynctask_02" />
+            <option value="$PROJECT_DIR$/asynctask_03" />
+            <option value="$PROJECT_DIR$/asynctask_04" />
+            <option value="$PROJECT_DIR$/broadcast_01" />
+            <option value="$PROJECT_DIR$/contacts_provider" />
+            <option value="$PROJECT_DIR$/data_storage01" />
+            <option value="$PROJECT_DIR$/data_storage02" />
+            <option value="$PROJECT_DIR$/data_storage03" />
+            <option value="$PROJECT_DIR$/data_storage04" />
+            <option value="$PROJECT_DIR$/data_storage05" />
+            <option value="$PROJECT_DIR$/data_storage06" />
+            <option value="$PROJECT_DIR$/drawerlayout" />
+            <option value="$PROJECT_DIR$/fragment_01" />
+            <option value="$PROJECT_DIR$/fragment_02" />
+            <option value="$PROJECT_DIR$/fragment_lifecycle" />
+            <option value="$PROJECT_DIR$/media_provider" />
+            <option value="$PROJECT_DIR$/multimedia_01" />
+            <option value="$PROJECT_DIR$/net_01" />
+            <option value="$PROJECT_DIR$/net_02" />
+            <option value="$PROJECT_DIR$/net_03" />
+            <option value="$PROJECT_DIR$/net_04" />
+            <option value="$PROJECT_DIR$/net_05" />
+            <option value="$PROJECT_DIR$/net_06" />
+            <option value="$PROJECT_DIR$/service_01" />
+            <option value="$PROJECT_DIR$/service_02" />
+            <option value="$PROJECT_DIR$/service_lifecycle" />
+            <option value="$PROJECT_DIR$/ui_01" />
+            <option value="$PROJECT_DIR$/ui_02" />
+            <option value="$PROJECT_DIR$/webservice" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

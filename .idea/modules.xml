@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Pre-Project.iml" filepath="$PROJECT_DIR$/Pre-Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activity_01/activity_01.iml" filepath="$PROJECT_DIR$/activity_01/activity_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activity_02/activity_02.iml" filepath="$PROJECT_DIR$/activity_02/activity_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activity_03/activity_03.iml" filepath="$PROJECT_DIR$/activity_03/activity_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activity_04/activity_04.iml" filepath="$PROJECT_DIR$/activity_04/activity_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activity_05/activity_05.iml" filepath="$PROJECT_DIR$/activity_05/activity_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activity_lifecycle/activity_lifecycle.iml" filepath="$PROJECT_DIR$/activity_lifecycle/activity_lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activity_singleInstance/activity_singleInstance.iml" filepath="$PROJECT_DIR$/activity_singleInstance/activity_singleInstance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activity_singleTask/activity_singleTask.iml" filepath="$PROJECT_DIR$/activity_singleTask/activity_singleTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activity_singleTop/activity_singleTop.iml" filepath="$PROJECT_DIR$/activity_singleTop/activity_singleTop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activity_standard/activity_standard.iml" filepath="$PROJECT_DIR$/activity_standard/activity_standard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-async-http_test/android-async-http_test.iml" filepath="$PROJECT_DIR$/android-async-http_test/android-async-http_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asynctask_01/asynctask_01.iml" filepath="$PROJECT_DIR$/asynctask_01/asynctask_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asynctask_02/asynctask_02.iml" filepath="$PROJECT_DIR$/asynctask_02/asynctask_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asynctask_03/asynctask_03.iml" filepath="$PROJECT_DIR$/asynctask_03/asynctask_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asynctask_04/asynctask_04.iml" filepath="$PROJECT_DIR$/asynctask_04/asynctask_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/broadcast_01/broadcast_01.iml" filepath="$PROJECT_DIR$/broadcast_01/broadcast_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contacts_provider/contacts_provider.iml" filepath="$PROJECT_DIR$/contacts_provider/contacts_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data_storage01/data_storage01.iml" filepath="$PROJECT_DIR$/data_storage01/data_storage01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data_storage02/data_storage02.iml" filepath="$PROJECT_DIR$/data_storage02/data_storage02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data_storage03/data_storage03.iml" filepath="$PROJECT_DIR$/data_storage03/data_storage03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data_storage04/data_storage04.iml" filepath="$PROJECT_DIR$/data_storage04/data_storage04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data_storage05/data_storage05.iml" filepath="$PROJECT_DIR$/data_storage05/data_storage05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data_storage06/data_storage06.iml" filepath="$PROJECT_DIR$/data_storage06/data_storage06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drawerlayout/drawerlayout.iml" filepath="$PROJECT_DIR$/drawerlayout/drawerlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragment_01/fragment_01.iml" filepath="$PROJECT_DIR$/fragment_01/fragment_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragment_02/fragment_02.iml" filepath="$PROJECT_DIR$/fragment_02/fragment_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragment_lifecycle/fragment_lifecycle.iml" filepath="$PROJECT_DIR$/fragment_lifecycle/fragment_lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/media_provider/media_provider.iml" filepath="$PROJECT_DIR$/media_provider/media_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multimedia_01/multimedia_01.iml" filepath="$PROJECT_DIR$/multimedia_01/multimedia_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/net_01/net_01.iml" filepath="$PROJECT_DIR$/net_01/net_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/net_02/net_02.iml" filepath="$PROJECT_DIR$/net_02/net_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/net_03/net_03.iml" filepath="$PROJECT_DIR$/net_03/net_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/net_04/net_04.iml" filepath="$PROJECT_DIR$/net_04/net_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/net_05/net_05.iml" filepath="$PROJECT_DIR$/net_05/net_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/net_06/net_06.iml" filepath="$PROJECT_DIR$/net_06/net_06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service_01/service_01.iml" filepath="$PROJECT_DIR$/service_01/service_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service_02/service_02.iml" filepath="$PROJECT_DIR$/service_02/service_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service_lifecycle/service_lifecycle.iml" filepath="$PROJECT_DIR$/service_lifecycle/service_lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui_01/ui_01.iml" filepath="$PROJECT_DIR$/ui_01/ui_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui_02/ui_02.iml" filepath="$PROJECT_DIR$/ui_02/ui_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webservice/webservice.iml" filepath="$PROJECT_DIR$/webservice/webservice.iml" />
+    </modules>
+  </component>
+</project>

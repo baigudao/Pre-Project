@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <Button
+        android:id="@+id/btn_recorder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="翻页" />
+
+    <Button
+        android:id="@+id/btn_yingyoug"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="播放应用的音频文件" />
+
+    <Button
+        android:id="@+id/btn_yuanshi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="播放应用的原始音频文件" />
+
+    <Button
+        android:id="@+id/btn_sd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="播放SD卡的音频文件" />
+
+    <Button
+        android:id="@+id/btn_net"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="播放网络的音频文件" />
+
+    <Button
+        android:id="@+id/btn_video"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="播放视频" />
+
+    <VideoView
+        android:id="@+id/vv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

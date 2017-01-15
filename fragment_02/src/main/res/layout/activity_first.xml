@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:id="@+id/fragment1_contain"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="#39e629"
+        android:orientation="vertical" />
+
+    <LinearLayout
+        android:id="@+id/fragment2_contain"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="#f5f110"
+        android:orientation="vertical" />
+
+
+    <fragment
+        android:id="@+id/fragment3_contain"
+        android:name="com.jackiee.fragment_02.ThirdFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="#bbc32e2e"
+        android:orientation="vertical" />
+
+</LinearLayout>

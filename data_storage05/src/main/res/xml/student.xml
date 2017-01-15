@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<class>
+    <group id="1">
+        <student
+            name="张三"
+            gender="男"
+            id="32">该生成绩优异!
+        </student>
+        <student
+            name="张三"
+            gender="男"
+            id="32">该生成绩优异！
+        </student>
+        <student
+            name="张三"
+            gender="男"
+            id="32">该生成绩优异！
+        </student>
+
+    </group>
+    <group id="2">
+        <student
+            name="李四"
+            gender="女"
+            id="52">该生成绩优异！
+        </student>
+        <student
+            name="张三"
+            gender="男"
+            id="32">该生成绩优异！
+        </student>
+        <student
+            name="张三"
+            gender="男"
+            id="32">该生成绩优异！
+        </student>
+
+    </group>
+    <group id="1">
+        <student
+            name="张三"
+            gender="男"
+            id="32">该生成绩优异！
+        </student>
+        <student
+            name="张三"
+            gender="男"
+            id="32">该生成绩优异！
+        </student>
+        <student
+            name="张三"
+            gender="男"
+            id="32">该生成绩优异！
+        </student>
+
+    </group>
+</class>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<class>
+    <stu id="11">
+        <name>张三</name>
+        <gender>true</gender>
+        <birthday>144445542124</birthday>
+    </stu>
+    <stu id="41">
+        <name>李四</name>
+        <gender>false</gender>
+        <birthday>144945842154</birthday>
+    </stu>
+    <stu id="17">
+        <name>王五</name>
+        <gender>true</gender>
+        <birthday>145445742124</birthday>
+    </stu>
+</class>

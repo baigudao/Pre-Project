@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:hint="显示内容" />
+
+    <EditText
+        android:id="@+id/et"
+        android:layout_width="match_parent"
+        android:layout_height="100dp" />
+
+    <Button
+        android:id="@+id/btn_sdR"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SD卡的读入" />
+
+    <Button
+        android:id="@+id/btn_sdW"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SD卡的写出" />
+
+    <Button
+        android:id="@+id/btn_pull"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pull解析文档" />
+
+</LinearLayout>
